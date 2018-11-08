@@ -1,0 +1,109 @@
+
+body{
+    font-family: "Raleway";
+    margin: auto;
+    min-width: 960px;
+    padding-top: 60px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    line-height: 1.8em;
+    background-color: papayawhip;
+
+}
+    
+
+.nav ul{
+    color: blue;
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    padding: 0px;
+    
+    
+}
+.parentl{
+    padding: 5%;
+    
+}
+
+.w img {
+    padding-top: 5%;
+    width: 50%;
+}
+
+.footer {
+    background-color: palevioletred;
+    color: white;
+    border: 1px solid black;
+    padding-right: 60%;
+}
+.footer-text {
+    color: white;
+}
+
+
+/*page about*/
+
+.atl {
+    display: flex;
+    padding-bottom: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 1%;
+    
+}
+.atl img{
+    width: 145%;
+    height: 100%;
+}
+
+.at h1{
+    padding-left: 2%;
+    
+}
+.aml {
+    display: flex;
+    padding-right: 2%;
+    padding-left: 2%;
+}
+
+
+.a {
+    padding: 2%;
+}
+.ayl{
+    display: flex;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+
+
+
+
+/*contact page*/
+.body{
+    color: blue;
+}
+.signup {
+    padding: 2% 10% 60% 10%;
+    text-align: center;
+    color: blue;
+    background-image: url(images/img1.jpeg);
+    background-size: cover;
+        
+    
+}
+
+input {
+    width: 100%;
+    height: 40px;
+    }
+h1{
+    color: blue;
+    
+}
+
+
+    
+
